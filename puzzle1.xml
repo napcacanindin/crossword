@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grid>
+  <name>NC 09042014</name>
+  <date>09/04/2014</date>
+  <author>Nap Cacanindin</author>
+  <level>1</level>
+  <width>15</width>
+  <height>15</height>
+  <horizontal>
+    <word y="0" x="0" description="Ark Builder">noah</word>
+    <word y="0" x="5" description="Stringed instrument">sitar</word>
+    <word y="0" x="11" description="Have a quarrel">spar</word>
+    <word y="1" x="0" description="Up to the task">able</word>
+    <word y="1" x="5" description="Close Friend">crony</word>
+    <word y="1" x="11" description="Albacore e.g.">tuna</word>
+    <word y="2" x="0" description="Gerbies and kitties">pets</word>
+    <word y="2" x="5" description="Folk music party">hootenanny</word>
+    <word y="3" x="0" description="Storm Center">eye</word>
+    <word y="3" x="4" description="Express pental frustration">vent</word>
+    <word y="3" x="10" description="Deepp pit">abyss</word>
+    <word y="4" x="2" description="Kitchen and den">rooms</word>
+    <word y="4" x="9" description="Have a bug">ail</word>
+    <word y="5" x="0" description="Hockey position">goalie</word>
+	<word y="5" x="8" description="Measuring Sticks">rulers</word>
+	<word y="6" x="0" description="___ for;choose">opted</word>
+	<word y="6" x="6" description="___ at;sees">looks</word>
+	<word y="6" x="12" description="Dine">eat</word>
+	<word y="7" x="0" description="Luau garlands">leis</word>
+	<word y="7" x="5" description="Daytime serials">soaps</word>
+	<word y="7" x="11" description="Perus capital">lima</word>
+	<word y="8" x="0" description="To and ___; back and forth">fro</word>
+	<word y="8" x="4" description="Shudder">shake</word>
+	<word y="8" x="10" description="Snake's poison">venom</word>
+	<word y="9" x="1" description="National Song">anthem</word>
+	<word y="9" x="9" description="Tent Material">canvas</word>
+	<word y="10" x="3" description="Get  __ of; shed">rid</word>
+	<word y="10" x="8" description="One of the five sense">taste</word>
+	<word y="11" x="0" description="Love in Paris">amour</word>
+	<word y="11" x="7" description="Not wild">tame</word>
+	<word y="11" x="12" description="Hot Tub">spa</word>
+	<word y="12" x="0" description="Lawful">legitimate</word>
+	<word y="12" x="11" description="Perched upon">atop</word>
+	<word y="13" x="0" description="Red Planet">mars</word>
+	<word y="13" x="5" description="Richard Petty or Jeff Gordon">racer</word>
+	<word y="13" x="11" description="Kelly or Wilder">gene</word>
+	<word y="14" x="0" description="Flower Stalk">stem</word>
+	<word y="14" x="5" description="More than is necessary">extra</word>
+	<word y="14" x="11" description="Likelihood">odds</word>
+ </horizontal>
+  <vertical>
+    <word y="0" x="0" description="Back of the nake">nape</word>
+	<word y="5" x="0" description="Mickelson's sport">golf</word>
+	<word y="11" x="0" description="Charitable gift">alms</word>
+	<word y="0" x="1" description="Mind">obey</word>
+	<word y="5" x="1" description="Met production">opera</word>
+	<word y="11" x="1" description="Beef or pork">meat</word>
+	<word y="0" x="2" description="Slight change">alteration</word>
+	<word y="11" x="2" description="Monster">ogre</word>
+	<word y="0" x="3" description="For ___ a jolly good fellow">hes</word>
+	<word y="4" x="3" description="Bullring cheers">oles</word>
+	<word y="9" x="3" description="Known fact">truism</word>
+	<word y="3" x="4" description="Empty space">void</word>
+	<word y="8" x="4" description="T-__;casual top">shirt</word>
+	<word y="0" x="5" description="Crafty plan">scheme</word>
+	<word y="7" x="5" description="Lean-to">shed</word>
+	<word y="12" x="5" description="Anger">ire</word>
+	<word y="0" x="6" description="Actor Jeremy">irons</word>
+	<word y="6" x="6" description="Rich soil">loam</word>
+	<word y="12" x="6" description="To the ___; fully">max</word>
+	<word y="0" x="7" description="Sound the horn">toot</word>
+	<word y="6" x="7" description="Furniture wood">oak</word>
+	<word y="11" x="7" description="Diplomacy">tact</word>
+	<word y="0" x="8" description="White ___; termite">ant</word>
+	<word y="5" x="8" description="Lasso, for one">rope</word>
+	<word y="10" x="8" description="Spud">tater</word>
+	<word y="0" x="9" description="Deli loaf">rye</word>
+	<word y="4" x="9" description="Balck and white seabirds">auks</word>
+	<word y="9" x="9" description="Cellphone feature">camera</word>
+	<word y="2" x="10" description="Manicurist's concerns">nails</word>
+	<word y="8" x="10" description="Bouquet holder">vase</word>
+	<word y="0" x="11" description="Horse's home">stable</word>
+	<word y="7" x="11" description="Period before Easter">lent</word>
+	<word y="12" x="11" description="Long, long ___">ago</word>
+	<word y="0" x="12" description="Undersized">puny</word>
+	<word y="5" x="12" description="Brought more stock with one's dividends">reinvested</word>
+	<word y="0" x="13" description="Jillian and Curry">anns</word>
+	<word y="5" x="13" description="American ____; Pago Pago's land">samoa</word>
+	<word y="11" x="13" description="Small lake">pond</word>
+	<word y="0" x="14" description="Sun beams">rays</word>
+	<word y="6" x="14" description="Scottish caps">tams</word>
+	<word y="11" x="14" description="Primates">apes</word>
+ </vertical>
+</grid>
